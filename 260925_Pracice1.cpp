@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    int a = 0;
-    cout << a << endl;
+    string str = "안녕하세요 초급프로젝트 실습 1번 진행중입니다.";
+    cout << str << endl;
 }
