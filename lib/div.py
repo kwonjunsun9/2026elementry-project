@@ -1,2 +1,2 @@
-def div(a: float, b: float) -> float:
+def div(a:float, b:float) -> float:
     return a / b
